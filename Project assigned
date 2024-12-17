@@ -1,0 +1,7 @@
+statement = "congratulations"
+
+uppercase_statement = statement.upper()
+
+print("The word in uppercase:", uppercase_statement)
+
+#I'm sorry for the confusion, I must have accidently sent you that file.
